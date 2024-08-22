@@ -1,5 +1,5 @@
-name: GitHub actions - To Test Repo - Trigger Jenkins Job
-run-name: Test Abhinay Repo - Trigger Jenkins Job
+name: GitHub actions - To Test Repo - Trigger Jenkins Job (Abhinay)
+run-name: Abhinay Repo - Trigger Jenkins Job
 
 on:
   push:
